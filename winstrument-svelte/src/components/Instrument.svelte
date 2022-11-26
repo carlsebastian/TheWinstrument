@@ -29,7 +29,7 @@
             name={sound.soundName}
             color={colors[index]}
             textColor={colors[index]}
-            url={"http://localhost:8080/" + sound.src}
+            url={"https://clever-platypus-047c9d.netlify.app/" + sound.src}
         />
         {/each}
     </div>
