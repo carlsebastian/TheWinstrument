@@ -1,0 +1,61 @@
+{
+    "sounds": [
+        {
+            "name": "Order Piano",
+            "sounds":
+            [
+                {
+                    "soundName": "O-1",
+                    "src": "sounds/order-1.wav"
+                },
+                {
+                    "soundName": "O-2",
+                    "src": "sounds/order-2.wav"
+                },
+                {
+                    "soundName": "O-3",
+                    "src": "sounds/order-3.wav"
+                },
+                {
+                    "soundName": "O-4",
+                    "src": "sounds/order-4.wav"
+                },
+                {
+                    "soundName": "O-5",
+                    "src": "sounds/order-5.wav"
+                },
+                {
+                    "soundName": "O-6",
+                    "src": "sounds/order-6.wav"
+                },
+                {
+                    "soundName": "O-7",
+                    "src": "sounds/order-7.wav"
+                },
+                {
+                    "soundName": "O-8",
+                    "src": "sounds/order-8.wav"
+                },
+                {
+                    "soundName": "O-9",
+                    "src": "sounds/order-9.wav"
+                },
+                {
+                    "soundName": "O-10",
+                    "src": "sounds/order-10.wav"
+                },
+                {
+                    "soundName": "O-11",
+                    "src": "sounds/order-11.wav"
+                },
+                {
+                    "soundName": "O-12",
+                    "src": "sounds/order-12.wav"
+                }
+
+            ]
+
+        }
+
+    ]
+}

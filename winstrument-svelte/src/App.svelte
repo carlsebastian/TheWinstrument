@@ -1,10 +1,10 @@
 <script>
-	export let name;
+	import Instrument from "./components/Instrument.svelte"
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>Självstyre 2022-12-08</h1>
+	<Instrument/>
 </main>
 
 <style>
@@ -16,7 +16,7 @@
 	}
 
 	h1 {
-		color: #ff3e00;
+		color: #169bab;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
